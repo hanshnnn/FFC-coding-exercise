@@ -8,3 +8,5 @@
 practice on programming skills, hope that by time the written code would be more concise, simple and neat
 
 any updates will be written here I guess..
+
+📝Aug 8 - <em>Finally got to write Quick Sort code without referring to anything..</em>
