@@ -10,3 +10,5 @@ practice on programming skills, hope that by time the written code would be more
 any updates will be written here I guess..
 
 📝Aug 8 - <em>Finally got to write Quick Sort code without referring to anything..</em>
+
+📝Aug 10 - <em>Merge sort done!!!</em>
